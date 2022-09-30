@@ -49,5 +49,4 @@ export const Small = Template.bind({});
 Small.args = {
   size: 'small',
   label: 'Button',
-  backgroundColor: "#ef821e",
 };
